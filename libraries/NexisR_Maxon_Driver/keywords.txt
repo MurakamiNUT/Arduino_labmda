@@ -1,0 +1,17 @@
+NexisR_Maxon_Driver	KEYWORD1
+print_data	KEYWORD2
+any_command	KEYWORD2
+get_current_Pgain	KEYWORD2
+mode_speed	KEYWORD2
+mode_position	KEYWORD2
+mode_current	KEYWORD2
+set_speed	KEYWORD2
+set_position	KEYWORD2
+set_current	KEYWORD2
+get_speed	KEYWORD2
+get_position	KEYWORD2
+get_current	KEYWORD2
+homing_start	KEYWORD2
+homing_judge	KEYWORD2
+ClearFault	KEYWORD2
+get_State_DigIn	KEYWORD2
